@@ -8,4 +8,5 @@
     media="(prefers-color-scheme: highcontrast), (prefers-color-scheme: highcontrast)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Sampaiodx&show_icons=true&highcontrast" />
+
 </picture>
