@@ -5,7 +5,7 @@
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Sampaiodx&show_icons=true"
-    media="(prefers-color-scheme: radical), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: radical), (prefers-color-scheme: tokyonight)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Sampaiodx&show_icons=true" />
 </picture>
