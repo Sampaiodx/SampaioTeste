@@ -1,6 +1,6 @@
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Sampaiodx&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=Sampaiodx&show_icons=true&tokyonight"
     media="(prefers-color-scheme: tokyonight)"
   />
   <source
