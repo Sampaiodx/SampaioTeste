@@ -2,7 +2,7 @@
 <table>
 
   <td>
-    <img src=" https://github-readme-stats.vercel.app/api?username=Sampaiodx&theme=Tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)"
+    <img src="https://github-readme-stats.vercel.app/api?username=Sampaiodx&theme=Synthwave&show_icons=true">
  
   </td>
   
