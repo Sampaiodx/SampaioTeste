@@ -7,7 +7,7 @@
   </td>
   
   <td>
-    <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=dark">
+    <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampaiosx&langs_count=8&theme=dark">
   </td>
   
 </table>
