@@ -1,12 +1,13 @@
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Sampaiodx&show_icons=true&dracula"
-    media="(prefers-color-scheme: highcontrast)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Sampaiodx&show_icons=true"
-    media="(prefers-color-scheme: highcontrast), (prefers-color-scheme: highcontrast)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Sampaiodx&show_icons=true&highcontrast" />
+# Olá eu sou o China!!🦝
+<table>
 
-</picture>
+  <Td>
+    <emg src=" https://github-readme-stats.vercel.app/api?username=Sampaiodx&theme=Tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)">
+ 
+  </Td>
+  
+  <td>
+    
+  </td>
+  
+</table>
