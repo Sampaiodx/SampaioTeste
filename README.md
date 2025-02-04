@@ -1,13 +1,39 @@
-# Olá eu sou o China!!🦝
-<table>
+<h1 align="left">Ola, Bem vindo ao meu perfil!!</h1>
 
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=Sampaiodx&theme=Synthwave&show_icons=true">
- 
-  </td>
-  
-  <td>
-    <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Sampaiosx&langs_count=8&theme=dark">
-  </td>
-  
-</table>
+###
+
+<p align="left">Meu nome é China</p>
+
+###
+
+<h2 align="left">Sobre mim:</h2>
+
+###
+
+<p align="left">Estudante de Análise e Desenvolvimento de Sistemas no Senac Sorocaba 💻<br>  <br>Aprendendo e praticando as linguagens:<br>*Java ☕<br>*C# ⚙️<br>*SQL 🗃️<br><br>Assistente Administrativo na Sx Negócios 🏢<br><br>Hobbies:<br>Praticar esportes 🏀<br>Fazer exercícios 💪</p>
+
+###
+
+<h2 align="left">Linguagens</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Sampaiodx/Sampaiodx/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Sampaiodx/count.svg?"  />
+</div>
+
+###
