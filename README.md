@@ -6,6 +6,12 @@
 
 ###
 
+<div align="center">
+  <img height="290" src="https://i.ytimg.com/vi/SU3BfKXR1D0/maxresdefault.jpg"  />
+</div>
+
+###
+
 <h2 align="left">Sobre mim:</h2>
 
 ###
@@ -33,5 +39,3 @@
 </div>
 
 ###
-
-  
